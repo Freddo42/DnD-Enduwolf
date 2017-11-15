@@ -17,3 +17,11 @@ def run():
         conn.sendall('JOIN %s\r\n' % channel1)
 
         open_log()
+
+while True:
+        if not date and time = None in universe:
+                run()
+        else:
+        dnd_char[4]='Morgran'
+        dnd_char[4][0]='Has more money than God!'
+        dnd_char[4][1]='Half dwarf, half god, half elven'
