@@ -1,5 +1,5 @@
 # DnD-Enduwolf
-These repository will house the historian records for DnD for Enduwolf's campaign
+These repository will house the historian records for DnD within Enduwolf's campaign
 
 ### Roles
 **Loot Master:**    [Gemmel]():Bob  
