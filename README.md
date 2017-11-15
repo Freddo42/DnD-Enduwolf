@@ -1,2 +1,9 @@
 # DnD-Enduwolf
-DnD historian records
+These repository will house the historian records for DnD for Enduwolf's campaign
+
+### Roles
+**Loot Master:**    [Gemmel]():Bob  
+**Historian:**      [Morgran]():Freddo  
+**Quarter Master:** [Korm]():Pain  
+**Crono Master:**   [DM]():Enduwolf  
+**Rules Lawyer:**   [Korm]():Pain  
